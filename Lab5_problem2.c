@@ -28,7 +28,7 @@ int main() {
     printf("Enter an integer: ");
     scanf("%d", &num);
     printScores(num);
-    } while(num >= 1);
+    } while(num > 1);
 
 
 
